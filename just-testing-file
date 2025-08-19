@@ -1,0 +1,2 @@
+cy.get('input[name="username"]').type('testuser'); // Replace with your username field selector and value
+cy.get('input[name="password"]').type('password123'); // Replace with your password field selector and value
